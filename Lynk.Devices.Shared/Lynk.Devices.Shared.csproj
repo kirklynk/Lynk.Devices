@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Kirk Kerr</Authors>
+    <PackageProjectUrl>https://github.com/kirklynk/Lynk.Devices</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/kirklynk/Lynk.Devices</RepositoryUrl>
+    <PackageTags>Lynk</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
